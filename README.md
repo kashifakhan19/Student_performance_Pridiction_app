@@ -44,6 +44,8 @@ Joblib
 ├── scaler.pkl                # Standard Scaler for input data
 └── README.md 
 
+
+## streamlit link : https://studentperformancechecker-kashifa.streamlit.app/
 ## Demo
 <img width="1920" height="1200" alt="Screenshot 2025-08-22 114341" src="https://github.com/user-attachments/assets/dc1a1afd-ff32-4660-8c71-ab609e0809f7" />
 <img width="1920" height="1200" alt="Screenshot 2025-08-22 114601" src="https://github.com/user-attachments/assets/928b8ce8-1280-47e5-a9d1-3ca8c50b03fd" />
